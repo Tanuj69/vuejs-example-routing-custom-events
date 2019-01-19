@@ -1,6 +1,5 @@
-# testvue
+# Vue.js example routing and custom events example
 
-> A Vue.js project
 
 ## Build Setup
 
